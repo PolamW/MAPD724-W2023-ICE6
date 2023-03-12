@@ -291,8 +291,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWW9KY48X7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "MAPD724-W2023-ICE6/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "My App would like to access your camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "My App would like to use the mic";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "My App would like to look at your pictures";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,8 +322,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWW9KY48X7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "MAPD724-W2023-ICE6/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "My App would like to access your camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "My App would like to use the mic";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "My App would like to look at your pictures";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
